@@ -1,0 +1,1 @@
+Trabalho de Bootstrap sobre placeholders e opacidade desenvolvido em colaboração com Iori e Kaio, sem fins monetários! Imagens, logos e nomes de marcas não pertencem a nós, mas sim aos seus respectivos donos.
